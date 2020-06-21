@@ -4,7 +4,7 @@ title: "Welcome FHL!"
 description: "My github blog"
 logo: 'assets/images/4leaves.jpg'
 favicon: 'assets/images/sigNet1.png'
-baseurl: /fuhaililab.github.io
+# baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
@@ -19,7 +19,7 @@ authors:
     avatar: assets/images/4leaves.png
     email: robert.fh.li@gmail.com
     web: https://fuhaililab@github.io
-    twitter: https://twitter.com/wowthemesnet
+    # twitter: https://twitter.com/wowthemesnet
     description: "I am Robert Li"
   william:
     name: William
