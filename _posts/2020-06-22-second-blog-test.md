@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "test-1"
+title:  "test-2"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/4leaves.jpg
