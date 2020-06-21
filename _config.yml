@@ -8,7 +8,7 @@ favicon: 'assets/images/sigNet1.png'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
-include: ["_pages"]
+# include: ["_pages"]
 permalink: /:title/
 
 # Authors
