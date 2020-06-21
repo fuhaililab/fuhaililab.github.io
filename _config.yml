@@ -4,7 +4,7 @@ title: "Welcome FHL!"
 description: "My github blog"
 logo: 'assets/images/4leaves.jpg'
 favicon: 'assets/images/sigNet1.png'
-# baseurl: /mediumish-theme-jekyll
+baseurl: /fuhaililab.github.io
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
