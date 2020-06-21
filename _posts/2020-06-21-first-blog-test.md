@@ -6,7 +6,3 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/4leaves.jpg
 ---
 Hello World first!
-
-
-
-
