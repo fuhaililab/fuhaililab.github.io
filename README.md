@@ -1,5 +1,6 @@
 # Welcome!
 
-![mediumish](assets/images/4leaves.jpg)
+We are developing computational models for biomedical data analysis.
 
-Fuhai Li, Thank you!
+Here are some projects:
+
