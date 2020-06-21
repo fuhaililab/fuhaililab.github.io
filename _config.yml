@@ -1,10 +1,10 @@
 # Site
 name: "Hello!"
-title: "Welcome!"
+title: "Welcome FHL!"
 description: "My github blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
+logo: 'assets/images/4leaves.jpg'
+favicon: 'assets/images/sigNet1.png'
+# baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: ''
@@ -61,12 +61,7 @@ kramdown:
     block:
       line_numbers: true
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
-
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, Gemfile, Gemfile.lock]
