@@ -405,7 +405,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-598734126&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-876231459&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -415,7 +415,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-598734126&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-876231459&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -701,6 +701,18 @@ Crash --&gt; [*]
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fuhaililab.github.io/publication/conference-paper/nouse_index/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fuhaililab.github.io/publication/index_01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fuhaililab.github.io/publication/index_01/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;AD inflammation, 2023&lt;/li&gt;
+&lt;li&gt;M3NetFlow - Graph AI, 2023&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
