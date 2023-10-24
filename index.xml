@@ -405,7 +405,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-738614925&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-329716845&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -415,7 +415,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-738614925&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-329716845&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -697,6 +697,14 @@ Crash --&gt; [*]
     
     <item>
       <title></title>
+      <link>https://fuhaililab.github.io/project/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fuhaililab.github.io/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://fuhaililab.github.io/publication/conference-paper/nouse_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fuhaililab.github.io/publication/conference-paper/nouse_index/</guid>
@@ -708,8 +716,7 @@ Crash --&gt; [*]
       <link>https://fuhaililab.github.io/publication/index_01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fuhaililab.github.io/publication/index_01/</guid>
-      <description>&lt;p&gt;p1. AD inflammation, 2023 &lt;br&gt;&lt;/p&gt;
-&lt;p&gt;p2. M3NetFlow - Graph AI, 2023 &lt;br&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
@@ -751,14 +758,6 @@ Crash --&gt; [*]
       <link>https://fuhaililab.github.io/publication/preprint/nouse_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fuhaililab.github.io/publication/preprint/nouse_index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coming Soon!</title>
-      <link>https://fuhaililab.github.io/project/example/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fuhaililab.github.io/project/example/</guid>
       <description></description>
     </item>
     

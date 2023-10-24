@@ -34,6 +34,9 @@
     <loc>https://fuhaililab.github.io/post/writing-technical-content/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fuhaililab.github.io/project/example/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fuhaililab.github.io/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -53,9 +56,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/project/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/project/</loc>
