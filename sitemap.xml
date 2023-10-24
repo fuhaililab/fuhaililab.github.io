@@ -10,46 +10,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/tag/academic/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/categories/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/category/demo/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/example_02/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/test_01/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/tags/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/example_01/</loc>
-    <lastmod>2023-08-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://fuhaililab.github.io/publication/</loc>
     <lastmod>2023-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,18 +30,6 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/post/jupyter/index_tmp/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://fuhaililab.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,24 +38,19 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://fuhaililab.github.io/post/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/publication-type/article-journal/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://fuhaililab.github.io/post/getting-started/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/tag/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://fuhaililab.github.io/post/jupyter/index_tmp/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fuhaililab.github.io/post/writing-technical-content/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/publication/index_003/</loc>
@@ -116,10 +59,19 @@
     <loc>https://fuhaililab.github.io/publication/index_m3netflow/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fuhaililab.github.io/publication/journal-article/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fuhaililab.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fuhaililab.github.io/project/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/project/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fuhaililab.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
