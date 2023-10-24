@@ -10,22 +10,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/publication/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/publication-type/article/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/publication/preprint/nouse_index/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fuhaililab.github.io/publication_types/</loc>
-    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://fuhaililab.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -50,16 +34,19 @@
     <loc>https://fuhaililab.github.io/post/writing-technical-content/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/publication/conference-paper/</loc>
+    <loc>https://fuhaililab.github.io/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fuhaililab.github.io/publication/index_003/</loc>
+    <loc>https://fuhaililab.github.io/publication/conference-paper/nouse_index/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/publication/index_m3netflow/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/publication/journal-article/nouse_index/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fuhaililab.github.io/publication/preprint/nouse_index/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/categories/</loc>
@@ -69,6 +56,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/project/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fuhaililab.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fuhaililab.github.io/tags/</loc>
